@@ -75,6 +75,10 @@ namespace projectsFromReadingWeekOne
             float determination = i / j;
             Console.WriteLine(determination);
 
+            double k = 1.0 + 1 + 1.0f;
+            int l = (int)(7 + 3.0 / 4.0 * 2);
+            Console.WriteLine(l);
+
 
 
             
