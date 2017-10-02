@@ -79,6 +79,19 @@ namespace projectsFromReadingWeekOne
             int l = (int)(7 + 3.0 / 4.0 * 2);
             Console.WriteLine(l);
 
+            //Type Experiment
+            short m = 30000;
+            short n = 30000;
+            short sum = (short)(m + n);
+            Console.WriteLine(sum);
+
+            //Incrementing
+            int o = 3;
+            o++;
+            int p = 4;
+            ++p;
+            Console.WriteLine(o + ", " + p);
+
 
 
             
